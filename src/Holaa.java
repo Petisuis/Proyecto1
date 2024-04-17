@@ -11,7 +11,7 @@ public class Holaa {
 		
 		int rezos=Integer.parseInt(ent.nextLine());
 		
-		for(int i=0; i <=rezos; i++)
+		for(int i=0; i <rezos; i++)
 		System.out.println("Petisuis is love, Petisuis is live");
 	}
 
