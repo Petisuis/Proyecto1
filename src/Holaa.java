@@ -13,6 +13,7 @@ public class Holaa {
 		
 		for(int i=0; i <rezos; i++)
 		System.out.println("Mengueche");
+		System.out.println("Manolito");
 	}
 
 }
